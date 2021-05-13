@@ -1,2 +1,2 @@
 # Pricing-Panel
-A simple pricing panel web page.
+A simple responsive pricing panel web page.
